@@ -1,11 +1,11 @@
 ## DAY 01 - LeetCode Solutions 
 ### Challenge : 100 LeetCode Problems in 10 Days 
 ### Language : Java
-### Problems Solved : 0/10
+### Problems Solved : 1/10
 ## Problems 
-|No. | Problem Name |LeetCode Link | Difficulty
-|----|---|---|---|
-01
+|Sr.No. |LeetCode No| Problem Name |LeetCode Link | Difficulty
+|:----:|:---:|:---:|:---:|:---:|
+01|9|Palindrome Number|[View Problem](https://leetcode.com/problems/palindrome-number/).|Easy|
 02
 03
 04
