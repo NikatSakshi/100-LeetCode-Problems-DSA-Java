@@ -23,4 +23,4 @@
 - Developed logical thinking through coding practice.
   
 ## Status
-- Day 1 Completed Successfully !
+- 🎉✨ Day 1 Completed Successfully! ✨🎉
