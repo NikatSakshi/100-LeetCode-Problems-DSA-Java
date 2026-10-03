@@ -17,4 +17,10 @@
 10|268|Missing Number|[View Problem](https://leetcode.com/problems/missing-number/)|Easy|
 
 ## Key Learnings
-- To be updated as I solve the problems .
+- Strengthened Java problem-solving skills.
+- Practiced number manupulation and mathematical logic.
+- Improved understanding of arrays and loops.
+- Developed logical thinking through coding practice.
+  
+## Status
+- Day 1 Completed Successfully !
