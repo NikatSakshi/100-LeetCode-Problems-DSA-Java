@@ -19,7 +19,7 @@ This repository documents my journey of solving 100 LeedCode problems in 10 days
 |Day   |   Problems Solved | Status|
 |---|:---:|---|
 |Day 01   |10/10|            Completed|
-|Day 02   |0/10|            Completed|
+|Day 02   |10/10|            Completed|
 |Day 03   |0/10|            In Progress|
 |Day 04   |0/10|            Not Started|
 |Day 05   |0/10|            Not Started|
