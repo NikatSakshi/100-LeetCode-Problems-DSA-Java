@@ -20,15 +20,15 @@ This repository documents my journey of solving 100 LeedCode problems in 10 days
 |---|:---:|---|
 |Day 01   |10/10|            Completed|
 |Day 02   |10/10|            Completed|
-|Day 03   |0/10|            In Progress|
-|Day 04   |0/10|            Not Started|
+|Day 03   |10/10|            Completed|
+|Day 04   |0/10|            In Progress|
 |Day 05   |0/10|            Not Started|
 |Day 06   |0/10|            Not Started|
 |Day 07   |0/10|            Not Started|
 |Day 08   |0/10|            Not Started|
 |Day 09   |0/10|            Not Started|
 |Day 10   |0/10|            Not Started|
-#### Overall Progress : 20/100
+#### Overall Progress : 30/100
 
 ## Learning Resourse
 - edSlash-DSA with LeetCode 100 Days
