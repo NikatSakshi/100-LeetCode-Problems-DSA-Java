@@ -1,13 +1,13 @@
 ## DAY 03 - LeetCode Solutions 
 ### Challenge : 100 LeetCode Problems in 10 Days 
 ### Language : Java
-### Problems Solved : 02/10
+### Problems Solved : 03/10
 ## Problems 
 |Sr.No. |LeetCode No| Problem Name |LeetCode Link | Difficulty
 |:----:|:---:|:---|:---:|:---:|
 01|704|Binary Search|[View Problem](https://leetcode.com/problems/binary-search/)|Easy|
 02|34|Find First and Last Position of Element in Sorted Array|[View Problem](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|Medium|
-03
+03|33|Search in Rotated Sorted Array|[View Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Medium|
 04
 05
 06
