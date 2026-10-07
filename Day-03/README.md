@@ -1,7 +1,7 @@
 ## DAY 03 - LeetCode Solutions 
 ### Challenge : 100 LeetCode Problems in 10 Days 
 ### Language : Java
-### Problems Solved : 09/10
+### Problems Solved : 10/10
 ## Problems 
 |Sr.No. |LeetCode No| Problem Name |LeetCode Link | Difficulty
 |:----:|:---:|:---|:---:|:---:|
@@ -14,7 +14,7 @@
 07|540|Single Element in a Sorted Array |[View Problem](https://leetcode.com/problems/single-element-in-a-sorted-array/)|Medium|
 08|75|Sort Colors|[View Problem](https://leetcode.com/problems/sort-colors/)|Medium|
 09|53|Maximum Subarray|[View Problem](https://leetcode.com/problems/maximum-subarray/)|Medium|
-10
+10|42|Trapping Rain Water|[View Problem](https://leetcode.com/problems/trapping-rain-water/)|Hard|
 
 ## Key Learnings
 
