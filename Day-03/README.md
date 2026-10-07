@@ -17,6 +17,11 @@
 10|42|Trapping Rain Water|[View Problem](https://leetcode.com/problems/trapping-rain-water/)|Hard|
 
 ## Key Learnings
-
+- Strengthened understanding of Binary Search and its variations for efficient searching.
+- Learned techniques for handling rotated and sorted arrays using binary search.
+- Improved understanding of array manipulation and sorting, especially 0s, 1s, and 2s.
+- Learned peak finding, subarray problems, and trapping rainwater using optimized approaches.
+- Improved time and space complexity analysis for efficient problem-solving.
     
 ## Status
+🎉✨ Day 3 Completed Successfully! ✨🎉
